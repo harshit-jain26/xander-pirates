@@ -33,6 +33,6 @@ int main()
         }
 
     }}
-
+  for(i=0;i<T;i++)
     cout<<p[i];
 }
